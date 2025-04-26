@@ -88,6 +88,7 @@ session_start();
             border-radius: 0.5rem;
             border: none;
             cursor: pointer;
+            margin-top: 10px;
         }
 
         .submit-btn:hover {
